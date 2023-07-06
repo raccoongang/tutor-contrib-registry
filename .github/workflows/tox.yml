@@ -28,6 +28,4 @@ jobs:
       run: |
         pip install tox tox-gh-actions
     - name: Test with tox
-      # TODO: replace this with just "tox" once everything is in place
-      # for the full test suite.
-      run: tox -e gitlint
+      run: tox

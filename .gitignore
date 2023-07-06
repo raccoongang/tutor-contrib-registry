@@ -1,0 +1,9 @@
+.*.swp
+!.gitignore
+__pycache__
+*.egg-info/
+.eggs
+.tox
+/tests/
+/build/
+/dist/
