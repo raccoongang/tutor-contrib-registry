@@ -1,4 +1,4 @@
-Unreleased
+Version 1.0.0 (2023-07-21)
 -----------------------------
 
 * Add a `tutor k8s registry` command for configuring 
