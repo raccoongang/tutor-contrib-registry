@@ -16,6 +16,7 @@ appropriate one:
 | Open edX release | Tutor version     | Plugin branch | Plugin release |
 |------------------|-------------------|---------------|----------------|
 | Olive            | `>=15.0, <16`     | `main`        | 1.x.x          |
+| Palm             | `>=16.0, <17`     | `main`        | 1.x.x          |
 
 
 Installation
