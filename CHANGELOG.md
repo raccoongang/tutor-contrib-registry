@@ -1,4 +1,4 @@
-Unreleased
+Version 1.2.0 (2024-01-12)
 -----------------------------
 
 * Add Support for Tutor 17 and Open edX Quince.
