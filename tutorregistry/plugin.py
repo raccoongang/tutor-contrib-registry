@@ -57,17 +57,17 @@ def registry(context) -> None:
 
         utils.kubectl(
             "delete", "secret", key_name,
-            f"--namespace={ namespace }",
+            f"--namespace={namespace}",
             "--wait=true",
             "--ignore-not-found=true")
 
         utils.kubectl(
-            "create", "secret", "docker-registry", f"{ key_name }",
-            f"--namespace={ namespace }",
-            f"--docker-server={ registry }",
-            f"--docker-username={ username }",
-            f"--docker-password={ password }",
-            f"--docker-email={ email }")
+            "create", "secret", "docker-registry", f"{key_name}",
+            f"--namespace={namespace}",
+            f"--docker-server={registry}",
+            f"--docker-username={username}",
+            f"--docker-password={password}",
+            f"--docker-email={email}")
 
         all_keys["imagePullSecrets"].append({"name": key_name})
 
@@ -77,4 +77,4 @@ def registry(context) -> None:
     utils.kubectl(
         "patch", "serviceaccount", "default",
         "-p", json.dumps(all_keys),
-        f"--namespace={ namespace }")
+        f"--namespace={namespace}")
