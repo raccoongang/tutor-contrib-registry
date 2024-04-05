@@ -1,4 +1,4 @@
-Unreleased
+Version 1.3.0 (2024-04-05)
 -----------------------------
 
 * Support Python 3.12.
