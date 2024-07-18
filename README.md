@@ -18,6 +18,7 @@ appropriate one:
 | Olive            | `>=15.0, <16`     | `main`        | 1.x.x          |
 | Palm             | `>=16.0, <17`     | `main`        | 1.x.x          |
 | Quince           | `>=17.0, <18`     | `main`        | 1.x.x          |
+| Redwood          | `>=18.0, <19`     | `main`        | 1.x.x          |
 
 
 Installation
