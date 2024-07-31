@@ -24,7 +24,7 @@ appropriate one:
 Installation
 ------------
 
-    pip install git+https://github.com/hastexo/tutor-contrib-registry@v1.3.0
+    pip install git+https://github.com/hastexo/tutor-contrib-registry@v1.4.0
 
 Usage
 -----
