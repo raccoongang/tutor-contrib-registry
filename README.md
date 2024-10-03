@@ -15,10 +15,10 @@ appropriate one:
 
 | Open edX release | Tutor version     | Plugin branch | Plugin release |
 |------------------|-------------------|---------------|----------------|
-| Olive            | `>=15.0, <16`     | `main`        | 1.x.x          |
-| Palm             | `>=16.0, <17`     | `main`        | 1.x.x          |
-| Quince           | `>=17.0, <18`     | `main`        | 1.x.x          |
-| Redwood          | `>=18.0, <19`     | `main`        | 1.x.x          |
+| Olive            | `>=15.0, <16`     | `quince`      | `<1.5.0`       |
+| Palm             | `>=16.0, <17`     | `quince`      | `>=1.1.0, <2`  |
+| Quince           | `>=17.0, <18`     | `quince`      | `>=1.1.0, <2`  |
+| Redwood          | `>=18.0, <19`     | `main`        | `>=2`          |
 
 
 Installation
