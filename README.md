@@ -28,7 +28,7 @@ appropriate one:
 Installation
 ------------
 
-    pip install git+https://github.com/cleura/tutor-contrib-registry@v2.2.0
+    pip install git+https://github.com/cleura/tutor-contrib-registry@v2.2.1
 
 Usage
 -----
