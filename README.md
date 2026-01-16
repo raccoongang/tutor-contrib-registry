@@ -23,6 +23,7 @@ appropriate one:
 | Redwood          | `>=18.0, <19`     | `main`        | `>=2`          |
 | Sumac            | `>=19.0, <20`     | `main`        | `>=2.2.0`      |
 | Teak             | `>=20.0, <21`     | `main`        | `>=2.2.0`      |
+| Ulmo             | `>=21.0, <22`     | `main`        | `>=2.3.0`      |
 
 
 Installation
