@@ -1,5 +1,10 @@
 # Changelog
 
+Unreleased
+----------------------------
+
+* Set skip_missing_interpreters = true for tox, so that it runs with whatever Python is available.
+
 Version 2.3.0 (2026-01-23)
 ----------------------------
 
