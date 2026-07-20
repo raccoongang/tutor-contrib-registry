@@ -19,6 +19,7 @@ If you are installing this plugin from a branch in this Git repository, you must
 | Sumac            | `>=19.0, <20`     | `main`        | `>=2.2.0`      |
 | Teak             | `>=20.0, <21`     | `main`        | `>=2.2.0`      |
 | Ulmo             | `>=21.0, <22`     | `main`        | `>=2.3.0`      |
+| Verawood         | `>=22.0, <23`     | `main`        | `>=2.4.0`      |
 
 ## Installation
 
